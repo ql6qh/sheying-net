@@ -1,0 +1,30 @@
+/*声明字体图标，这里一定要注意路径的变化*/
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../fonts/icomoon.eot?3b3wmp');
+    src:  url('../fonts/icomoon.eot?3b3wmp#iefix') format('embedded-opentype'),
+      url('../fonts/icomoon.ttf?3b3wmp') format('truetype'),
+      url('../fonts/icomoon.woff?3b3wmp') format('woff'),
+      url('../fonts/icomoon.svg?3b3wmp#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  /*版心*/
+.w{
+    width: 1200px;
+    margin: 0 auto;
+}
+.f1{
+    float: left;
+    padding-top: 10px;
+}
+.f2{
+    float: right;
+    padding-top: 10px;
+}
+.style_red{
+    color: #c81623;
+}
+/* 快捷导航模块 */
+/* 主要内容模块 */
